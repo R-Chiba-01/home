@@ -16,7 +16,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 45px 8% 10px 8%;
+  padding: 45px 8% 0 8%;
 }
 
 .logo {
@@ -74,8 +74,8 @@ nav ul li a:hover {
 }
 
 .content .body img {
-  width: 648px;
-  height: 432px;
+  width: 540px;
+  height: 360px;
   margin-top: 10px;
 }
 
